@@ -575,7 +575,7 @@ section {
   border: 2px solid #0563bb;
 }
 
-.button {
+.buttonr {
   display: inline-block;
   padding: 12px 30px;
   background-color: #0563bb;
@@ -589,7 +589,7 @@ section {
 }
 
 .button:hover {
-  background-color: #3E8E41;
+  background-color: #0443bb;
 }
 
 
