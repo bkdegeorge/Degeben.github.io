@@ -575,6 +575,24 @@ section {
   border: 2px solid #0563bb;
 }
 
+.button {
+  display: inline-block;
+  padding: 12px 30px;
+  background-color: #0563bb;
+  color: #FFFFFF;
+  font-size: 18px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 4px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
+  transition: all 0.3s ease-in-out;
+}
+
+.button:hover {
+  background-color: #3E8E41;
+}
+
+
 /*--------------------------------------------------------------
 # Portfolio
 --------------------------------------------------------------*/
